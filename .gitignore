@@ -1,0 +1,15 @@
+# IntelliJ
+*.iml
+**/.idea
+
+# Build
+**/build/*
+**/target/*
+**/logs/*
+**/scala-logging.log
+
+# Binaries
+**/bin/
+**/libexec/
+*.jar
+*.gz
